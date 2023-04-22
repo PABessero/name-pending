@@ -1,0 +1,174 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "forge-43.2.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Pab's New Pack",
+  "version": "0.0.1",
+  "author": "",
+  "files": [
+    {
+      "projectID": 349206,
+      "fileID": 4005156,
+      "required": true
+    },
+    {
+      "projectID": 240630,
+      "fileID": 4440341,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 4473123,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3972423,
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 4153347,
+      "required": true
+    },
+    {
+      "projectID": 250419,
+      "fileID": 4277356,
+      "required": true
+    },
+    {
+      "projectID": 233071,
+      "fileID": 4412675,
+      "required": true
+    },
+    {
+      "projectID": 272515,
+      "fileID": 3940452,
+      "required": true
+    },
+    {
+      "projectID": 245755,
+      "fileID": 4442313,
+      "required": true
+    },
+    {
+      "projectID": 361579,
+      "fileID": 4443553,
+      "required": true
+    },
+    {
+      "projectID": 439870,
+      "fileID": 4480832,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 4100299,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3872808,
+      "required": true
+    },
+    {
+      "projectID": 574856,
+      "fileID": 4448157,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 4500394,
+      "required": true
+    },
+    {
+      "projectID": 531761,
+      "fileID": 4442591,
+      "required": true
+    },
+    {
+      "projectID": 499980,
+      "fileID": 4491267,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 4433884,
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 4500148,
+      "required": true
+    },
+    {
+      "projectID": 276951,
+      "fileID": 4498935,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 4476084,
+      "required": true
+    },
+    {
+      "projectID": 271740,
+      "fileID": 4028343,
+      "required": true
+    },
+    {
+      "projectID": 388800,
+      "fileID": 4119087,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 4494410,
+      "required": true
+    },
+    {
+      "projectID": 252848,
+      "fileID": 4118390,
+      "required": true
+    },
+    {
+      "projectID": 412082,
+      "fileID": 4488276,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4050343,
+      "required": true
+    },
+    {
+      "projectID": 243121,
+      "fileID": 4480516,
+      "required": true
+    },
+    {
+      "projectID": 228525,
+      "fileID": 4426591,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3871353,
+      "required": true
+    },
+    {
+      "projectID": 627994,
+      "fileID": 4174973,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
