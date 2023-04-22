@@ -3,7 +3,7 @@
     "version": "1.19.2",
     "modLoaders": [
       {
-        "id": "forge-43.2.0",
+        "id": "forge-43.2.8",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Pab's New Pack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "",
   "files": [
     {
