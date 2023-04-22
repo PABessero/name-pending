@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Pab's New Pack",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "",
   "files": [
     {
@@ -165,11 +165,6 @@
       "required": true
     },
     {
-      "projectID": 368825,
-      "fileID": 4414160,
-      "required": true
-    },
-    {
       "projectID": 492574,
       "fileID": 3843285,
       "required": true
@@ -260,11 +255,6 @@
       "required": true
     },
     {
-      "projectID": 334853,
-      "fileID": 4076569,
-      "required": true
-    },
-    {
       "projectID": 535489,
       "fileID": 4199798,
       "required": true
@@ -287,6 +277,11 @@
     {
       "projectID": 495693,
       "fileID": 4017307,
+      "required": true
+    },
+    {
+      "projectID": 306770,
+      "fileID": 4031402,
       "required": true
     },
     {
@@ -317,6 +312,11 @@
     {
       "projectID": 233071,
       "fileID": 4412675,
+      "required": true
+    },
+    {
+      "projectID": 838913,
+      "fileID": 4443335,
       "required": true
     },
     {
@@ -462,11 +462,6 @@
     {
       "projectID": 349206,
       "fileID": 4005156,
-      "required": true
-    },
-    {
-      "projectID": 495267,
-      "fileID": 4469004,
       "required": true
     },
     {
